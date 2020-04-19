@@ -1,4 +1,4 @@
-# image_uploader_react
+# Image uploader Using React & Redux
 
 Command for Set up
 
